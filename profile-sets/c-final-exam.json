@@ -7,7 +7,7 @@
   "session": {
     "language": "c",
     "timing": {
-      "allowReset": false,
+      "allowReset": true,
       "enabled": true,
       "minutes": 90
     },
